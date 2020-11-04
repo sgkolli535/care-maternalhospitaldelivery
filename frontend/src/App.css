@@ -1,0 +1,32 @@
+.App {
+}
+
+.carelogo {
+  height: 100px;
+  width: 100px;
+  margin-left: 50px;
+}
+
+.color-nav {
+  background-color: #EECE9C;
+}
+.links {
+  font-size: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 250px;
+}
+.link {
+  margin-right: 50px;
+}
+
+#profile {
+  margin-left: 200px;
+  font-size: 20px;
+  color: #B97740;
+}
+#profile img {
+  margin-left: 10px;
+  height: 70px;
+  width: 70px;
+}
