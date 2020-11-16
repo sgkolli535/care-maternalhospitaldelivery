@@ -5,6 +5,8 @@ Purpose: improve access to skilled delivery for women from internally displaced 
 
 Impact: improve access to skilled delivery for mothers at health facilities. The project will be used by health staff of 20 health facilities in IDPs and is expected to increase hospital delivery by 30% in the first one year through tracking mother’s hospital visit dates. 
 
+Wireframes: https://www.figma.com/files/project/15769334/Web-App-Wireframes
+
 Features: 
 
 - Registration form – beneficiary details (as in the standard registration forms used in health facilities)
